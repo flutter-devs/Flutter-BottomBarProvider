@@ -121,6 +121,7 @@ class Setting extends StatelessWidget {
   }
 }
 
+
 class BottomNavigationBarProvider with ChangeNotifier {
   int _currentIndex = 0;
 
